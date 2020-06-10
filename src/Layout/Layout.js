@@ -6,7 +6,7 @@ const Layout = props => {
     return (
         <div>
             <Navigation />
-            <main style={{margin: '32px'}}>
+            <main style={{margin: '34px'}}>
                 {children}
             </main>
         </div>
